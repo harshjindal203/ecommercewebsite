@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "name": "Nike",
+        "description":"Revolution 7 Running Shoes For Men  (Black , 9)",
+        "price":2413,
+        "image":"./d1.png"
+    },
+    {
+        "id":2,
+        "name": "Nike",
+        "description":"NK RENEW RIDE 3 Running Shoes For Men  (Blue , 6)",
+        "price":3777,
+        "image":"./d2.png"
+    },
+    {
+        "id":3,
+        "name": "Nike",
+        "description":"NK Flex Experience Run 11 Next Nature Men's Road Running Shoes Running Shoes For Men  (Brown , 8)",
+        "price":2747,
+        "image":"./d3.png"
+    },
+    {
+        "id":4,
+        "name": "Nike",
+        "description":"Flex Experience Run 11 Running Shoes For Men  (Multicolor , 6)",
+        "price":3812,
+        "image":"./d4.png"
+    },
+    {
+        "id":5,
+        "name": "Nike",
+        "description":"Nike Pegasus EasyOn Blueprint Men's Road Running Shoes",
+        "price":12000,
+        "image":"./d5.png"
+    },
+    {
+        "id":6,
+        "name": "Nike",
+        "description":"Nike Pegasus Trail 5 Men's Trail-Running Shoes",
+        "price":12800,
+        "image":"./d6.png"
+    },
+    {
+        "id":7,
+        "name": "Nike",
+        "description":"Air Zoom Structure 24 Running Shoes For Men  (Black , 8)",
+        "price":10295,
+        "image":"./d7.png"
+    },
+    {
+        "id":8,
+        "name": "Nike",
+        "description":"Free Run 2018 Training & Gym Shoes For Men  (White , 9)",
+        "price":5946,
+        "image":"./d8.png"
+    },
+    {
+        "id":9,
+        "name": "Nike",
+        "description":"AIR MAX",
+        "price":2500,
+        "image":"./f1.png"
+    },
+    {
+        "id":10,
+        "name": "Nike",
+        "description":"LEBRON NXXT",
+        "price":3700,
+        "image":"./f2.jpeg"
+    },
+    {
+        "id":11,
+        "name": "Nike",
+        "description":"Air Peagus",
+        "price":2800,
+        "image":"./f3.png"
+    },
+    {
+        "id":12,
+        "name": "Nike",
+        "description":"NIKE RUNNING SHOES",
+        "price":3000,
+        "image":"./f4.jpg"
+    },
+    {
+        "id":13,
+        "name": "Nike",
+        "description":"SPORTS SHOES",
+        "price":1200,
+        "image":"./f5.jpg"
+    },
+    {
+        "id":14,
+        "name": "Nike",
+        "description":"GT CUT 3 EP",
+        "price":1280,
+        "image":"./f6.jpeg"
+    },
+    {
+        "id":15,
+        "name": "Nike",
+        "description":"Air Zoom Structure 24 Running Shoes For Men",
+        "price":1029,
+        "image":"./f7.jpg"
+    },
+    {
+        "id":15,
+        "name": "Nike",
+        "description":"NIKE Sports Run",
+        "price":594,
+        "image":"./f8.webp"
+    }   
+    
+]
